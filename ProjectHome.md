@@ -1,0 +1,2 @@
+On Screen Lyrics is uses the PyOSD library to display the synchronised lyrics of the Now-Playing song in any of the famous music players in Linux.
+It searches for the .lrc lyric file in the local directory, if it is found, it parses the file and displays it on the screen using the PyOSD Library. If the lyrics is not found in the local directory, it will search for it on the internet and download it.
